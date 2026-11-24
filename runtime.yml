@@ -3,5 +3,6 @@ runtypes:
   hourly:
     - ansible-role-motd
     - projectpotos.roles.firewalld
+    - projectpotos.roles.wallpaper
   daily:
     - ansible-role-motd
