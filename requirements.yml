@@ -1,6 +1,9 @@
 ---
 collections:
   - name: community.general
+  - name: https://github.com/sebi364/ansible-collection-potos.roles.git
+    type: git
+    version: main
 
 roles:
   - src: https://github.com/adfinis/ansible-role-motd

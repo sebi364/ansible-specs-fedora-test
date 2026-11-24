@@ -1,0 +1,2 @@
+---
+firewalld_tcp_ports: [22, 80, 443, 6767]
