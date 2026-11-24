@@ -1,0 +1,8 @@
+---
+wallpaper_images:
+  - name: wallpaper_1
+    filename: /var/lib/potos/specs/files/wallpaper/tism.png
+    options: zoom
+    pcolor: "#1c2e5d"
+    scolor: "#1c2e5d"
+    shade_type: solid
